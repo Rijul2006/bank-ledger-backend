@@ -29,7 +29,7 @@ A secure and robust backend system for a financial ledger. It handles user authe
 * `POST /api/transaction/system/initial-funds` - Requires system admin access to initialize baseline capital or float funds.
 * `POST /api/transaction/` - Processes a standard financial movement (like a deposit or transfer).
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 1. **Clone the repository:**
    ```bash
